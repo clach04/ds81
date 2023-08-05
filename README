@@ -1,0 +1,22 @@
+				      DS81
+			   Copyright 2006 Ian Cowburn
+			      ianc@noddybox.co.uk
+
+The code to DS81 is released under the GNU General Public License.  See COPYING
+for details.
+
+Other included software is provided in good faith, is not released under the 
+GNU General Public License, and is copyright their respective authors.  If any
+of these authors disagree with this distribution of their work then it will be
+gladly removed.
+
+ZX81 BASIC ROM (c) 1981 Nine Tiles Networks LTD
+
+3D Monster Maze (c) 1983 Malcolm E. Evans
+
+Mazogs, City Patrol and Sabotage (c) 1981-1982 Don Priestley
+
+
+See the file INSTRUCTIONS.TXT for instructions on use.
+See the file BUILDING for instructions on building the sources.
+See the file CHANGES for recent changes.
